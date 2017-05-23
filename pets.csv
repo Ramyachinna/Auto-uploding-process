@@ -1,0 +1,11 @@
+id,type,breed,age,sex,size,color,status
+1,dog,Coyote,Puppy,male,Small,Yellow,InHouse
+2,cat ,Cymric,Kitten,male,Medium,Fuscia,InHouse
+3,dog,Alaskan Malamute,Young,female,Large,Blue,Homestay
+4,cat ,Birman,Young,female,Small,Maroon,InHouse
+5,horse,American Quarter,Babby,male,Medium,Red,Homestay
+6,dog,Alaskan Malamute,Adult,male,Small,Purple,InHouse
+7,cat ,Cymric,Adult,male,Medium,Aquamarine,InHouse
+8,dog,Alaskan Malamute,Senior,female,Large,Pink,Homestay
+9,cat ,Birman,Senior,female,Small,Goldenrod,InHouse
+10,horse,American Quarter,Young,male,Medium,Purple,Homestay
